@@ -1,0 +1,7 @@
+C:\GitHub Projects\GarageSystem\GarageLogic\bin\Debug\GarageLogic.dll.config
+C:\GitHub Projects\GarageSystem\GarageLogic\bin\Debug\GarageLogic.dll
+C:\GitHub Projects\GarageSystem\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\GitHub Projects\GarageSystem\GarageLogic\obj\Debug\GarageLogic.csproj.AssemblyReference.cache
+C:\GitHub Projects\GarageSystem\GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\GitHub Projects\GarageSystem\GarageLogic\obj\Debug\GarageLogic.dll
+C:\GitHub Projects\GarageSystem\GarageLogic\obj\Debug\GarageLogic.pdb

@@ -1,0 +1,12 @@
+C:\GitHub Projects\GarageSystem\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\GitHub Projects\GarageSystem\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\GitHub Projects\GarageSystem\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\GitHub Projects\GarageSystem\ConsoleUI\bin\Debug\GarageLogic.dll
+C:\GitHub Projects\GarageSystem\ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\GitHub Projects\GarageSystem\ConsoleUI\bin\Debug\GarageLogic.dll.config
+C:\GitHub Projects\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\GitHub Projects\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\GitHub Projects\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\GitHub Projects\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\GitHub Projects\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\GitHub Projects\GarageSystem\ConsoleUI\obj\Debug\ConsoleUI.pdb
