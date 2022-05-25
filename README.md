@@ -38,6 +38,7 @@ The system can supply the user with the following functions:
 7. Display vehicle information (License number, Model name, Owner name, Status in
    garage, Tire specifications (manufacturer and air pressure), Fuel status + Fuel type /
    Battery status, other relevant information based on vehicle type).
-   
-   Enjoy :)
+
+
+Enjoy :)
    
